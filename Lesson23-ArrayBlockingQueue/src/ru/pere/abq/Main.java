@@ -1,6 +1,5 @@
 package ru.pere.abq;
 
-import java.util.ArrayList;
 import java.util.concurrent.ArrayBlockingQueue;
 
 public class Main {
