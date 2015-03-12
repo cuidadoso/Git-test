@@ -21,6 +21,5 @@ public class Calculator
         calcFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         calcFrame.pack();
         calcFrame.setVisible(true);
-        calcFrame.
     }
 }
